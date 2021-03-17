@@ -1,0 +1,2 @@
+class SodthirdController < ApplicationController
+end
